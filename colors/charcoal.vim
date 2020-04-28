@@ -89,7 +89,7 @@ hi Statement       guibg=NONE     guifg=#7F8C99
 
 hi Conditional     guibg=NONE     guifg=#EEEEEE
 hi Repeat          guibg=NONE     guifg=#EEEEEE
-hi Label           guibg=NONE     guifg=#FFCCFF
+hi Label           guibg=NONE     guifg=#C0D0EA
 hi Operator        guibg=NONE     guifg=#EEEEEE
 hi Keyword         guibg=NONE     guifg=#EEEEEE
 hi Exception       guibg=NONE     guifg=#8C8C8C
@@ -104,14 +104,14 @@ hi Type            guibg=NONE     guifg=#C4C4C4
 hi StorageClass    guibg=NONE     guifg=#8C8C8C
 hi Structure       guibg=NONE     guifg=#B0B0B0
 hi Typedef         guibg=NONE     guifg=#C4C4C4
-hi Special         guibg=NONE     guifg=#BBDDFF
-hi SpecialChar     guibg=NONE     guifg=#BBDDFF
-hi Tag             guibg=NONE     guifg=#BBDDFF
+hi Special         guibg=NONE     guifg=#A8C7E6
+hi SpecialChar     guibg=NONE     guifg=#A8C7E6
+hi Tag             guibg=NONE     guifg=#A8C7E6
 hi Delimiter       guibg=NONE     guifg=NONE
-hi SpecialComment  guibg=#334455  guifg=#5C5856
+hi SpecialComment  guibg=#334455  guifg=#202020
 hi Debug           guibg=NONE     guifg=#FF9999  gui=NONE
 
-hi Underlined      guibg=NONE     guifg=#99CCFF  gui=underline
+hi Underlined      guibg=NONE     guifg=#557790  gui=underline
 
 hi Title           guibg=NONE     guifg=#B0B5B9  gui=bold
 hi Ignore          guibg=NONE     guifg=#CCCCCC
