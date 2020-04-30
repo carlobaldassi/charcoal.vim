@@ -18,7 +18,8 @@ set termguicolors
 
 hi Normal          guibg=#292726  guifg=#B0B0B0  gui=NONE
 hi Cursor          guibg=#6C6C6C  guifg=NONE     gui=NONE
-hi NonText         guibg=NONE     guifg=#B0B0B0
+hi NonText         guibg=NONE     guifg=#585858
+hi Whitespace      guibg=NONE     guifg=#494949
 hi Visual          guibg=#557790  guifg=white    gui=NONE
 hi CursorIM        guibg=#4C6C6C  guifg=NONE     gui=NONE
 
