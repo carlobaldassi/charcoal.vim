@@ -38,8 +38,8 @@ hi ModeMsg         guibg=NONE     guifg=#FFEECC  gui=NONE
 hi Question        guibg=NONE     guifg=#C4C4C4
 hi link MoreMsg    ModeMsg
 
-hi StatusLineNC    guibg=#BCBEBC  guifg=#232323
-hi StatusLine      guibg=#444450  guifg=white    gui=NONE
+hi StatusLineNC    guibg=#A9ABA9  guifg=#33333A
+hi StatusLine      guibg=#444455  guifg=white    gui=NONE
 hi VertSplit       guibg=#232323  guifg=#232323  gui=NONE
 
 hi DiffAdd         guibg=#262626  guifg=#87AF87  gui=reverse
