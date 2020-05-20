@@ -117,15 +117,25 @@ hi Ignore          guibg=NONE     guifg=#CCCCCC
 hi Error           guibg=NONE     guifg=#AF5F5F  gui=reverse
 hi Todo            guibg=NONE     guifg=NONE     gui=reverse
 
-hi link mkdHeading title
-hi link htmlH2     title
-hi link htmlH3     htmlH2
-hi link htmlH4     htmlH3
-hi link htmlH5     htmlH4
-hi link htmlH6     htmlH5
-hi htmlBold        gui=bold
-hi htmlItalic      gui=italic
+" Extras (not included in vim)
 
+hi DocString       guibg=NONE guifg=#607272 gui=NONE
+
+" Language-specific tweaks
+
+hi link juliaDocString        DocString
+
+hi link mkdHeading            Title
+
+hi link htmlH2                Title
+hi link htmlH3                htmlH2
+hi link htmlH4                htmlH3
+hi link htmlH5                htmlH4
+hi link htmlH6                htmlH5
+hi htmlBold                   gui=bold
+hi htmlItalic                 gui=italic
+
+" Finalize
 
 let g:colors_name = "Charcoal"
 let colors_name   = "Charcoal"
