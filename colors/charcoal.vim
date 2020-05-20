@@ -27,8 +27,6 @@ hi LineNr          guibg=#242221  guifg=#6C6C6C  gui=NONE
 hi SignColumn      guibg=#1C1C1C  guifg=#6C6C6C  gui=NONE
 hi CursorLineNr    guibg=#303030  guifg=#80A0AF  gui=NONE
 
-hi Directory       guibg=NONE     guifg=#337700  gui=NONE
-
 hi IncSearch       guibg=#AFAF5F  guifg=#262626  gui=NONE
 hi Search          guibg=#3F4C4C  guifg=#e0e0e0  gui=NONE
 
