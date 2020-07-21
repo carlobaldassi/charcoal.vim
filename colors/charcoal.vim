@@ -82,7 +82,7 @@ hi Number          guibg=NONE     guifg=#B0B8C5
 hi Boolean         guibg=NONE     guifg=#B0B8C5  gui=NONE
 hi Float           guibg=NONE     guifg=#B0B8C5
 
-hi Identifier      guibg=NONE     guifg=#B0B0B0
+hi Identifier      guibg=NONE     guifg=#B0C0B5
 hi Function        guibg=NONE     guifg=#8C8C8C
 hi Statement       guibg=NONE     guifg=#7F8C99
 
