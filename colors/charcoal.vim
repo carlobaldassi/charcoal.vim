@@ -66,8 +66,8 @@ hi SpellRare       guibg=NONE     guifg=#FF8700  gui=undercurl guisp=NONE
 
 hi ColorColumn     guibg=#5F2F2F  guifg=NONE     gui=NONE
 
-hi FoldColumn      guibg=#272727  guifg=#6C6C1C  gui=NONE
-hi Folded          guibg=#272727  guifg=#6C6C1C  gui=NONE
+hi FoldColumn      guibg=#292726  guifg=#4F526B  gui=NONE
+hi Folded          guibg=#292726  guifg=#4F526B  gui=NONE
 
 hi Directory       guibg=NONE     guifg=#80AFAF  gui=NONE
 
