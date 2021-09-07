@@ -119,11 +119,13 @@ hi Todo            guibg=NONE     guifg=NONE     gui=reverse
 
 " Extras (not included in vim)
 
-hi DocString       guibg=NONE guifg=#607272 gui=NONE
+hi DocString       guibg=NONE     guifg=#607272 gui=NONE
+hi FunctionCall    guibg=NONE     guifg=#9AA0A5
 
 " Language-specific tweaks
 
 hi link juliaDocString        DocString
+hi link juliaFunctionCall     FunctionCall
 
 hi link mkdHeading            Title
 
@@ -134,6 +136,9 @@ hi link htmlH5                htmlH4
 hi link htmlH6                htmlH5
 hi htmlBold                   gui=bold
 hi htmlItalic                 gui=italic
+
+hi link helpCommand           Include
+hi link helpExample           Include
 
 " Finalize
 
